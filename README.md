@@ -17,6 +17,8 @@ using Python3, Keras, and Tensorflow.
 2. You have to change the route of h5 in 'Test_*_Trained_model.ipynb' for proper route.
 3. You can test in the 'Test_*_Trained_model.ipynb' file for testing in Jupyter notebooks.
 
+## Results
+You can see results of Segmentation below. Also you can see more results in 'assets/' folder.
 
 ##Original Picture
 ![](assets/original/4.jpg)
