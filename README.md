@@ -19,25 +19,19 @@ using Python3, Keras, and Tensorflow.
 
 
 ##Original Picture
-Original Picture before Segmentation.
 ![](assets/original/4.jpg)
 
 ##After Tyre Segmentation
-Visualize tyre of the picture after segmentation
 ![](assets/tyre/4.jpg)
 
 ##After Light Segmentation
-Visualize light of the picture after segmentation
 ![](assets/light/4.jpg)
 
 ##After Number Plate Segmentation
-Visualize number plate of the picture after segmentation
 ![](assets/number/4.jpg)
 
 ##After Grill Segmentation
-Visualize grill of the picture after segmentation
 ![](assets/grill/4.jpg)
 
 ##After All Segmentation
-Divide tyre, light, grill, number plate of the car
 ![](assets/total/4.jpg)
