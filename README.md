@@ -14,13 +14,18 @@ using Python3, Keras, and Tensorflow.
 
 ## Segmentation
 1. After getting .h5 file from training, put that h5 file into 'samples/carComponents'.
-2. You can test in the 'Test_*_Trained_model.ipynb' file for testing in Jupyter notebooks.
-3. 
+2. You have to change the route of h5 in 'Test_*_Trained_model.ipynb' for proper route.
+3. You can test in the 'Test_*_Trained_model.ipynb' file for testing in Jupyter notebooks.
 
-
+###Original Picture
 ![](assets/original/4.jpg)
+###After Tyre Segmentation
 ![](assets/tyre/4.jpg)
+###After Light Segmentation
 ![](assets/light/4.jpg)
+###After Number Plate Segmentation
 ![](assets/number/4.jpg)
+###After Grill Segmentation
 ![](assets/grill/4.jpg)
+###After All Segmentation
 ![](assets/total/4.jpg)
